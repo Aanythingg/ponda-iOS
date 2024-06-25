@@ -1,7 +1,4 @@
-# Template 개요
-## Template 사용법
-- 해당 레포지토리에서 `Use this template` 를 사용하여 Github에 Repo를 만들어 시작
-- 해당 레포지토리를 Fork 혹은 Download하여 시작
+# Ponda-iOS
 
 ## 레이어 
 Features - Services - Core - UserInterface - Shared
